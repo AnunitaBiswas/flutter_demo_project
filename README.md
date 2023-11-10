@@ -1,6 +1,6 @@
 # flutter_demo_project
 
-A new Flutter project.
+A new Flutter project. A scrollable onBoarding journey with GetX library using MVC pattern
 
 ## Getting Started
 
